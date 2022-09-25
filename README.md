@@ -3,7 +3,8 @@
 ![preview](./src/imagens/preview_page.png)
 
 > Mapa Dev Week
-
+## Objetivos do Projeto
+  Desenvolver  uma coleção de cards com os Pockemon de sa preferência;
 
 Projeto construído no Mapa Dev Week.
 
